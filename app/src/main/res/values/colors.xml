@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color">#a7a7a7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="riflegreen">#3e3e3e</color>
+    <color name="rose">#f5007a</color>
+    <color name="purple">#6b0195</color>
+    <color name="deepfuchsia">#b851a7</color>
+    <color name="bleudefrance">#3796f0</color>
+    <color name="white_1">#ffffff</color>
+    <color name="davygrey">#5d5d5d</color>
+    <color name="grey">#929191</color>
+    <color name="mediumjunglegreen">#2c2c2c</color>
+    <color name="deepcerise">#d23182</color>
+    <color name="rose_1">#f6007b</color>
+    <color name="indigo">#4b0965</color>
+    <color name="raspberryrose">#a7386f</color>
+    <color name="mediumjunglegreen_1">#2b2b2b</color>
+    <color name="darkjunglegreen">#1d1d1d</color>
+    <color name="persianpink">#ff82c1</color>
+    <color name="veronica">#a41ed9</color>
+    <color name="carnationpink">#fb9ecc</color>
+    <color name="pastelpurple">#b9a2ae</color>
+    <color name="royalpurple">#8e54a5</color>
+    <color name="white_transparent">#80ffffff</color>
+    <color name="green">#0F9505</color>
+    <color name="red">#FC3333</color>
+    <color name="dark_green">#242424</color>
+    <color name="platinum">#E8E8E8</color>
+    <color name="mediumjunglegreen_4">#2e2e2e</color>
+    <color name="lindogo">#5E1367</color>
+    <color name="dark_purple">#81246b</color>
+    <color name="light_gray">#474747</color>
+    <color name="med_gray">#b8b8b8</color>
+    <color name="text_color_2">#a7a7a7</color>
+    <color name="light_1">#e2e2e2</color>
+    <color name="abdo_color">#303030</color>
+    <color name="text_order_color">#747474</color>
+    <color name="pending_color">#ffb300</color>
+    <color name="rejected_color">#e50027</color>
+    <color name="accepted_color">#4489ff</color>
+    <color name="in_progress_color">#a01497</color>
+    <color name="filter_color">#b26c98</color>
+    <color name="done_color">#a4d166</color>
+    <color name="noti_color">#343434</color>
+    <color name="choose_map">#dfdffa</color>
+    <color name="map_text">#0063b0</color>
+    <color name="tint_color">#a9a9a9</color>
+    <color name="selected_color">#006bb6</color>
+    <color name="selct">#009cdc</color>
+    <color name="order_accept_new">#0fb340</color>
+
+    <color name="star_color">#FFEB3B</color>
+    <color name="offer_color">#aaaaaa</color>
+    <color name="order_not_selected">#8ABDE9</color>
+    <color name="sign_up_color_labels">#a7a7a7</color>
+    <color name="cat_home_cal">#0474bc</color>
+    <color name="not_select_cat">#f1f5f7</color>
+
+    <color name="text_not_select">#a5a5a5</color>
+
+    <color name="empty">#f74747</color>
+</resources>
+
+

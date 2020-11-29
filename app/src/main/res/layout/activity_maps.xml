@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.auth.singup.MapsActivity" />
+
+
+    <!--    <ImageView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:src="@drawable/marker"-->
+    <!--        />-->
+
+
+
+    <Button
+        android:layout_height="@dimen/_40sdp"
+        android:background="@drawable/map_but"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/_70sdp"
+        android:textColor="@color/white"
+        android:text="إيجاد أقرب مستشفي"
+        android:id="@+id/ok_button"
+        android:layout_width="@dimen/_116sdp"/>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:background="@drawable/product_back"
+        android:gravity="center">
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
